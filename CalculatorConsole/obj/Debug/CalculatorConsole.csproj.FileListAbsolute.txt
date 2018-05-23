@@ -1,0 +1,7 @@
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe.config
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.exe
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\bin\Debug\CalculatorConsole.pdb
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csprojAssemblyReference.cache
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.csproj.CoreCompileInputs.cache
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.exe
+C:\Users\Enes\dotnetProjects\CalculatorConsole\CalculatorConsole\CalculatorConsole\obj\Debug\CalculatorConsole.pdb
