@@ -60,7 +60,6 @@ namespace CalculatorConsole
                     case 4:
                         calculate.div(n1, n2);
                         break;
-
                     default:
                         Console.WriteLine("Uygun bir seçim yapmadınız.");
                         Console.Write("İlk sayıyı girin: ");
